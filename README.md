@@ -1,7 +1,7 @@
 # Formulário simples em Flutter
 
 A new Flutter application.
-
+![alt text](https://github.com/ValerioNunes/Formulario-em-Flutter/blob/master/files/images/tela_formulario.PNG)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
